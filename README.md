@@ -1,2 +1,1 @@
-# Hotel
-Hotel web-site
+# Boʻsh ish oʻrinlari
